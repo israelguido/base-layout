@@ -399,109 +399,111 @@
                 </div><!--end row-->
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="monitor" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Fully Responsive</h4>
-                            </div>
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="monitor" class="fea icon-ex-md text-primary"></i>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="heart" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Browser Compatibility</h4>
-                            </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Criação de Sites Otimizados</h4>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="eye" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Retina Ready</h4>
-                            </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="heart" class="fea icon-ex-md text-primary"></i>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="bold" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Based On Bootstrap 4</h4>
-                            </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Compatível com Todos os Navegadores</h4>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="feather" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Feather Icons</h4>
-                            </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="eye" class="fea icon-ex-md text-primary"></i>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="code" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Built With SASS</h4>
-                            </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Otimizado para Alta Resolução</h4>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="user-check" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">W3c Valid Code</h4>
-                            </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="bar-chart-2" class="fea icon-ex-md text-primary"></i>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="git-merge" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Flaticon Icons</h4>
-                            </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Baseado em Estratégias de Marketing</h4>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="media key-feature align-items-center p-3 rounded shadow">
-                            <div class="icon text-center rounded-circle mr-3">
-                                <i data-feather="settings" class="fea icon-ex-md text-primary"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="title mb-0">Easy to customize</h4>
-                            </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="feather" class="fea icon-ex-md text-primary"></i>
                         </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-12 mt-4 pt-2 text-center">
-                        <a href="javascript:void(0)" class="btn btn-primary">See More <i class="mdi mdi-arrow-right"></i></a>
-                    </div><!--end col-->
-                </div><!--end row-->
+                        <div class="media-body">
+                            <h4 class="title mb-0">Anúncios Otimizados</h4>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="pocket" class="fea icon-ex-md text-primary"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Desenvolvido com Ferramentas de Marketing</h4>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="code" class="fea icon-ex-md text-primary"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Código de Qualidade Certificado</h4>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="activity" class="fea icon-ex-md text-primary"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Métricas de Performance e Acessibilidade</h4>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="media key-feature align-items-center p-3 rounded shadow">
+                        <div class="icon text-center rounded-circle mr-3">
+                            <i data-feather="settings" class="fea icon-ex-md text-primary"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="title mb-0">Fácil Personalização</h4>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-12 mt-4 pt-2 text-center">
+                    <a href="javascript:void(0)" class="btn btn-primary">Veja Mais <i class="mdi mdi-arrow-right"></i></a>
+                </div><!--end col-->
+            </div><!--end row-->
+
+
             </div><!--end container-->
         </section><!--end section-->
         <!-- Key Feature End -->
@@ -523,107 +525,110 @@
                 <div class="col-12 text-center">
                 <div class="section-title mb-4 pb-2">
                     <h4 class="title mb-4">Avaliações de Clientes</h4>
-                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com a <span class="text-primary font-weight-bold">Landrick</span> e obtenha tudo o que você precisa para gerar visibilidade, atrair tráfego e conectar-se com seu público.</p>
+                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com a <span class="text-primary font-weight-bold">Publinet</span> e descubra por que nossos clientes elogiam nosso compromisso com resultados excepcionais e atendimento personalizado.</p>
+
                 </div>
             </div><!--end col-->
 
                 </div><!--end row-->
 
                 <div class="row justify-content-center">
-                    <div class="col-lg-12 mt-4">
-                        <div id="customer-testi" class="owl-carousel owl-theme">
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/01.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. "</p>
-                                    <h6 class="text-primary">- Thomas Israel <small class="text-muted">C.E.O</small></h6>
-                                </div>
-                            </div>
-                            
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/02.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" One disadvantage of Lorum Ipsum is that in Latin certain letters appear more frequently than others. "</p>
-                                    <h6 class="text-primary">- Barbara McIntosh <small class="text-muted">M.D</small></h6>
-                                </div>
-                            </div>
-
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/03.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. "</p>
-                                    <h6 class="text-primary">- Carl Oliver <small class="text-muted">P.A</small></h6>
-                                </div>
-                            </div>
-
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/04.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" According to most sources, Lorum Ipsum can be traced back to a text composed by Cicero. "</p>
-                                    <h6 class="text-primary">- Christa Smith <small class="text-muted">Manager</small></h6>
-                                </div>
-                            </div>
-
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/05.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" There is now an abundance of readable dummy texts. These are usually used when a text is required. "</p>
-                                    <h6 class="text-primary">- Dean Tolle <small class="text-muted">Developer</small></h6>
-                                </div>
-                            </div>
-
-                            <div class="media customer-testi m-2">
-                                <img src="images/client/06.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                                <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    </ul>
-                                    <p class="text-muted mt-2">" Thus, Lorem Ipsum has only limited suitability as a visual filler for German texts. "</p>
-                                    <h6 class="text-primary">- Jill Webb <small class="text-muted">Designer</small></h6>
-                                </div>
+                <div class="col-lg-12 mt-4">
+                    <div id="customer-testi" class="owl-carousel owl-theme">
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/01.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet transformou nossa presença online com estratégias de marketing digital que realmente funcionam. Não poderíamos estar mais satisfeitos com os resultados!"</p>
+                                <h6 class="text-primary">- João Silva <small class="text-muted">CEO</small></h6>
                             </div>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
+                        
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/02.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A equipe da Publinet é altamente profissional e seus insights em campanhas de Google Ads foram um divisor de águas para o nosso negócio."</p>
+                                <h6 class="text-primary">- Maria Oliveira <small class="text-muted">Diretora de Marketing</small></h6>
+                            </div>
+                        </div>
+
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/03.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet entregou resultados excepcionais e superou nossas expectativas com uma abordagem inovadora e personalizada."</p>
+                                <h6 class="text-primary">- Carlos Almeida <small class="text-muted">Fundador</small></h6>
+                            </div>
+                        </div>
+
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/04.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"Com a Publinet, nosso ROI em campanhas de Google Ads aumentou significativamente. Eles realmente entendem do que estão falando."</p>
+                                <h6 class="text-primary">- Ana Costa <small class="text-muted">Gerente de Projetos</small></h6>
+                            </div>
+                        </div>
+
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/05.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A expertise da Publinet em publicidade digital nos ajudou a alcançar novos patamares. Agradecemos pelo suporte contínuo e pela abordagem estratégica."</p>
+                                <h6 class="text-primary">- Rafael Lima <small class="text-muted">Consultor</small></h6>
+                            </div>
+                        </div>
+
+                        <div class="media customer-testi m-2">
+                            <img src="images/client/06.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet é uma parceira valiosa para qualquer empresa que busca maximizar seu impacto digital. Recomendamos fortemente!"</p>
+                                <h6 class="text-primary">- Beatriz Rocha <small class="text-muted">Diretora de Vendas</small></h6>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+
+
             </div><!--end container-->
 
             <div class="container mt-100 mt-60">
