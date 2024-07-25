@@ -612,304 +612,94 @@
                         </div>
                     </div>
 
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/02.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"A equipe da Publinet é altamente profissional e seus insights em
-                                campanhas de Google Ads foram um divisor de águas para o nosso negócio."</p>
-                            <h6 class="text-primary">- Maria Oliveira <small class="text-muted">Diretora de
-                                    Marketing</small></h6>
+
+            </div><!--end container-->
+
+            <div class="container mt-100 mt-60">
+                <div class="row justify-content-center">
+                    <div class="col-12 text-center">
+                        <div class="section-title mb-4 pb-2">
+                            <h4 class="title mb-4">Últimas Notícias</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com <span
+                                        class="text-primary font-weight-bold">Landrick</span> e obtenha tudo o que você precisa para gerar
+                                visibilidade, atrair tráfego e conectar-se.</p>
                         </div>
                     </div>
 
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/03.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"A Publinet entregou resultados excepcionais e superou nossas
-                                expectativas com uma abordagem inovadora e personalizada."</p>
-                            <h6 class="text-primary">- Carlos Almeida <small class="text-muted">Fundador</small></h6>
-                        </div>
-                    </div>
-
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/04.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"Com a Publinet, nosso ROI em campanhas de Google Ads aumentou
-                                significativamente. Eles realmente entendem do que estão falando."</p>
-                            <h6 class="text-primary">- Ana Costa <small class="text-muted">Gerente de Projetos</small>
-                            </h6>
-                        </div>
-                    </div>
-
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/05.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"A expertise da Publinet em publicidade digital nos ajudou a
-                                alcançar novos patamares. Agradecemos pelo suporte contínuo e pela abordagem
-                                estratégica."</p>
-                            <h6 class="text-primary">- Rafael Lima <small class="text-muted">Consultor</small></h6>
-                        </div>
-                    </div>
-
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/06.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"A Publinet é uma parceira valiosa para qualquer empresa que
-                                busca maximizar seu impacto digital. Recomendamos fortemente!"</p>
-                            <h6 class="text-primary">- Beatriz Rocha <small class="text-muted">Diretora de
-                                    Vendas</small></h6>
-                        </div>
-                    </div>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
-
-
-    </div><!--end container-->
-
-    <div class="container mt-100 mt-60">
-        <div class="row justify-content-center">
-            <div class="col-12 text-center">
-                <div class="section-title mb-4 pb-2">
-                    <h4 class="title mb-4">Últimas Notícias do Nosso Blog</h4>
-                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com <span
-                                class="text-primary font-weight-bold">Publinet</span> e obtenha tudo o que você precisa
-                        para gerar
-                        visibilidade, atrair tráfego e conectar-se.</p>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
-
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                <div class="card blog rounded border-0 shadow">
-                    <div class="position-relative">
-                        <img src="images/blog/01.jpg" class="card-img-top rounded-top" alt="...">
-                        <div class="overlay rounded-top bg-dark"></div>
-                    </div>
-                    <div class="card-body content">
-                        <h5><a href="javascript:void(0)" class="card-title title text-dark">Desenvolva seus aplicativos
-                                do seu jeito</a></h5>
-                        <div class="post-meta d-flex justify-content-between mt-3">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)"
-                                                                          class="text-muted like"><i
-                                                class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
-                                                class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                            </ul>
-                            <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i
-                                        class="mdi mdi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="author">
-                        <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                        <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
-                    </div>
-                </div>
-            </div><!--end col-->
-
-            <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                <div class="card blog rounded border-0 shadow">
-                    <div class="position-relative">
-                        <img src="images/blog/02.jpg" class="card-img-top rounded-top" alt="...">
-                        <div class="overlay rounded-top bg-dark"></div>
-                    </div>
-                    <div class="card-body content">
-                        <h5><a href="javascript:void(0)" class="card-title title text-dark">Como os aplicativos estão
-                                mudando o mundo da TI</a></h5>
-                        <div class="post-meta d-flex justify-content-between mt-3">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)"
-                                                                          class="text-muted like"><i
-                                                class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
-                                                class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                            </ul>
-                            <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i
-                                        class="mdi mdi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="author">
-                        <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                        <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
-                    </div>
-                </div>
-            </div><!--end col-->
-
-            <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                <div class="card blog rounded border-0 shadow">
-                    <div class="position-relative">
-                        <img src="images/blog/03.jpg" class="card-img-top rounded-top" alt="...">
-                        <div class="overlay rounded-top bg-dark"></div>
-                    </div>
-                    <div class="card-body content">
-                        <h5><a href="javascript:void(0)" class="card-title title text-dark">Aplicativos Mais
-                                Inteligentes para Negócios</a></h5>
-                        <div class="post-meta d-flex justify-content-between mt-3">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)"
-                                                                          class="text-muted like"><i
-                                                class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
-                                                class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                            </ul>
-                            <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i
-                                        class="mdi mdi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="author">
-                        <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                        <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
-                    </div>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
-    </div><!--end container-->
-
-</section><!--end section-->
-<!-- Testi End -->
-
-<!-- Shape Start -->
-<div class="position-relative">
-    <div class="shape overflow-hidden text-footer">
-        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
-        </svg>
-    </div>
-</div>
-<!--Shape End-->
-
-<!-- Footer Start -->
-<footer class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                <a href="#" class="logo-footer">
-                    <img src="images/logo-light.png" height="24" alt="">
-                </a>
-                <p class="mt-4">Comece a trabalhar com a Publinet e descubra como é maravilhoso ter tudo o que você
-                    precisa para gerar visibilidade, atrair visitantes e conectar-se com seu público.</p>
-                <ul class="list-unstyled social-icon social mb-0 mt-4">
-                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook"
-                                                                                                 class="fea icon-sm fea-social"></i></a>
-                    </li>
-                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i
-                                    data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter"
-                                                                                                 class="fea icon-sm fea-social"></i></a>
-                    </li>
-                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin"
-                                                                                                 class="fea icon-sm fea-social"></i></a>
-                    </li>
-                </ul><!--end icon-->
-            </div><!--end col-->
-
-            <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                <h4 class="text-light footer-head">Empresa</h4>
-                <ul class="list-unstyled footer-list mt-4">
-                    <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Sobre
-                            nós</a></li>
-                    <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Serviços</a></li>
-                    <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Equipe</a>
-                    </li>
-                    <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Preços</a>
-                    </li>
-                    <li><a href="page-work-modern.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Projetos</a></li>
-                    <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Carreiras</a>
-                    </li>
-                    <li><a href="page-blog-grid.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a>
-                    </li>
-                    <li><a href="auth-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Login</a></li>
-                </ul>
-            </div><!--end col-->
-
-            <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                <h4 class="text-light footer-head">Links Úteis</h4>
-                <ul class="list-unstyled footer-list mt-4">
-                    <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Termos de
-                            Serviço</a></li>
-                    <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Política de Privacidade</a></li>
-                    <li><a href="documentation.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Documentação</a></li>
-                    <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Mudanças</a></li>
-                    <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                            Componentes</a></li>
-                </ul>
-            </div><!--end col-->
-
-            <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                <h4 class="text-light footer-head">Newsletter</h4>
-                <p class="mt-4">Increva-se e receba as novidades por E-mail.</p>
-                <form>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="foot-subscribe form-group position-relative">
-                                <label>Escreva seu email <span class="text-danger">*</span></label>
-                                <i data-feather="mail" class="fea icon-sm icons"></i>
-                                <input type="email" name="email" id="emailsubscribe" class="form-control pl-5 rounded"
-                                       placeholder="Seu email : " required>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog rounded border-0 shadow">
+                            <div class="position-relative">
+                                <img src="images/blog/01.jpg" class="card-img-top rounded-top" alt="...">
+                                <div class="overlay rounded-top bg-dark"></div>
+                            </div>
+                            <div class="card-body content">
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Desenvolva seus aplicativos do seu jeito</a></h5>
+                                <div class="post-meta d-flex justify-content-between mt-3">
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
+                                        <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
+                                    </ul>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="author">
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
                             </div>
                         </div>
-                        <div class="col-lg-12">
-                            <input type="submit" id="submitsubscribe" name="send" class="btn btn-soft-primary btn-block"
-                                   value="Increva-se">
+                    </div><!--end col-->
+
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog rounded border-0 shadow">
+                            <div class="position-relative">
+                                <img src="images/blog/02.jpg" class="card-img-top rounded-top" alt="...">
+                                <div class="overlay rounded-top bg-dark"></div>
+                            </div>
+                            <div class="card-body content">
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Como os aplicativos estão mudando o mundo da TI</a></h5>
+                                <div class="post-meta d-flex justify-content-between mt-3">
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
+                                        <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
+                                    </ul>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="author">
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
+                            </div>
                         </div>
-                    </div>
-                </form>
-            </div><!--end col-->
-        </div><!--end row-->
-    </div><!--end container-->
-</footer><!--end footer-->
-<footer class="footer footer-bar">
-    <div class="container text-center">
-        <div class="row align-items-center">
-            <div class="col-sm-6">
-                <div class="text-sm-left">
-                    <p class="mb-0">© <?= date('Y') ?> Publinet. Design with <i class="mdi mdi-heart text-danger"></i>
-                        by <a href="https://publinet1.com.br/" target="_blank" class="text-reset">Publinet</a>.</p>
-                </div>
-            </div><!--end col-->
+                    </div><!--end col-->
+
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog rounded border-0 shadow">
+                            <div class="position-relative">
+                                <img src="images/blog/03.jpg" class="card-img-top rounded-top" alt="...">
+                                <div class="overlay rounded-top bg-dark"></div>
+                            </div>
+                            <div class="card-body content">
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Aplicativos Mais Inteligentes para Negócios</a></h5>
+                                <div class="post-meta d-flex justify-content-between mt-3">
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
+                                        <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
+                                    </ul>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="author">
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+        </section><!--end section-->
+        <!-- Testi End -->
 
             <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                 <!-- <ul class="list-unstyled text-sm-right mb-0">
