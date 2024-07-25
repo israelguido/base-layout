@@ -13,7 +13,7 @@
         <meta name="website" content="https://publinet1.com.br/" />
 
         <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
+        <link rel="shortcut icon" href="images/publinet-favicon.ico">
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific -->
@@ -48,7 +48,7 @@
                 <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.html">
-                        <img src="images/logo-dark.png" height="24" alt="">
+                        <img src="images/publinet-logo.png" height="50" alt="">
                     </a>
                 </div>                 
                 <div class="buy-button">
