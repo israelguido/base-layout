@@ -1,17 +1,17 @@
 
 <!DOCTYPE html>
-    <html lang="en">
+    <html lang="pt_BR">
 
     <head>
         <meta charset="utf-8" />
-        <title>Landrick - Saas & Software Landing Page Template</title>
+        <title>Publinet - Marketing Digital</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-        <meta name="keywords" content="Saas, Software, multi-uses, HTML, Clean, Modern" />
-        <meta name="author" content="Shreethemes" />
-        <meta name="email" content="shreethemes@gmail.com" />
+        <meta name="description" content="O que é Marketing Digital? Promover produtos ou marcas através das mídias digitais é a principal definição para o Marketing Digital." />
+        <meta name="keywords" content="marketing digital, google, adwords, publinet, marketing, midias digitais" />
+        <meta name="author" content="Publinet" />
+        <meta name="email" content="contato@publinet1.com.br" />
         <meta name="website" content="http://www.shreethemes.in" />
-        <meta name="Version" content="v2.5.1" />
+
         <!-- favicon -->
         <link rel="shortcut icon" href="images/favicon.ico">
         <!-- Bootstrap -->
@@ -52,7 +52,7 @@
                     </a>
                 </div>                 
                 <div class="buy-button">
-                    <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
+                    <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Contato</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
@@ -74,7 +74,7 @@
                     <ul class="navigation-menu">
                         <li><a href="index.html">Home</a></li>
                         <li class="has-submenu">
-                            <a href="javascript:void(0)">Landing</a><span class="menu-arrow"></span>
+                            <a href="javascript:void(0)">Serviços</a><span class="menu-arrow"></span>
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
@@ -135,7 +135,7 @@
                         </li>
         
                         <li class="has-submenu">
-                            <a href="javascript:void(0)">Pages</a><span class="menu-arrow"></span>
+                            <a href="javascript:void(0)">Cases</a><span class="menu-arrow"></span>
                             <ul class="submenu">
                                 <li class="has-submenu"><a href="javascript:void(0)"> Company <span class="badge badge-primary rounded">Added</span></a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -272,8 +272,8 @@
                             </ul>
                         </li>
                     </ul><!--end navigation menu-->
-                    <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
+                    <div class="menu-btn d-none">
+                        <a href="contatop.php" target="_blank" class="btn btn-primary">Buy Now</a>
                     </div><!--end login button-->
                 </div><!--end navigation-->
             </div><!--end container-->
@@ -286,11 +286,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-7 col-md-7 order-1 order-md-2">
                         <div class="title-heading mt-4 ml-lg-5">
-                            <h1 class="heading mb-3">We are Startup Creative <span class="text-primary">Landrick</span> Agency</h1>
-                            <p class="para-desc text-muted">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                            <h1 class="heading mb-3">Criados para o Marketing Digital <span class="text-primary">Publinet</span> </h1>
+                            <p class="para-desc text-muted">Lance sua campanha e aproveite nossa expertise em criar e gerenciar páginas otimizadas e focadas em conversão para marketing digital.</p>
                             <div class="watch-video mt-4 pt-2">
-                                <a href="javascript:void(0)" class="btn btn-primary">Learn More <i class="mdi mdi-chevron-right"></i></a>
-                                <a href="http://vimeo.com/99025203" class="video-play-icon watch text-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white position-relative play play-iconbar"></i> WATCH VIDEO</a>
+                                <a href="javascript:void(0)" class="btn btn-primary">Saiba Mais <i class="mdi mdi-chevron-right"></i></a>
+                                <a href="https://www.youtube.com/watch?v=qcMITRKVJy8" class="video-play-icon watch text-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white position-relative play play-iconbar"></i> ASSISTA O VIDEO</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -314,8 +314,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Design & Development</h4>
-                                <p class="text-muted mb-0">Nisi aenean vulputate eleifend tellus vitae eleifend enim a eleifend Aliquam aenean elementum semper.</p>
+                                <h4 class="title-2">Design & Desenvolvimento</h4>
+                                <p class="text-muted mb-0">Crie seu site com nossa equipe especializada em design e desenvolvimento de páginas responsivas e focadas na experiência do usuário.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -327,8 +327,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Management & Marketing</h4>
-                                <p class="text-muted mb-0">Allegedly, a Latin scholar established the origin of the text established by compiling unusual word.</p>
+                                <h4 class="title-2">Gerenciamento & Marketing</h4>
+                                <p class="text-muted mb-0">Gerencie sua marca com nossa expertise em estratégias de marketing digital e gestão de conteúdo de alta qualidade.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -340,8 +340,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Stratagy & Research</h4>
-                                <p class="text-muted mb-0">It seems that only fragments of the original text remain in the Lorem the original Ipsum texts used today.</p>
+                                <h4 class="title-2">Estratégia e Pesquisa</h4>
+                                <p class="text-muted mb-0">Desenvolva estratégias eficazes com nossa expertise em pesquisa de mercado e análise de dados para alcançar seus objetivos.</p>
                             </div>
                         </div>
                     </div><!--end col-->
