@@ -635,8 +635,10 @@
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
-                            <h4 class="title mb-4">Latest News</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <h4 class="title mb-4">Últimas Notícias</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com <span
+                                        class="text-primary font-weight-bold">Landrick</span> e obtenha tudo o que você precisa para gerar
+                                visibilidade, atrair tráfego e conectar-se.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -646,72 +648,73 @@
                         <div class="card blog rounded border-0 shadow">
                             <div class="position-relative">
                                 <img src="images/blog/01.jpg" class="card-img-top rounded-top" alt="...">
-                            <div class="overlay rounded-top bg-dark"></div>
+                                <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your own way</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Desenvolva seus aplicativos do seu jeito</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
                                 <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
-                    
+
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="card blog rounded border-0 shadow">
                             <div class="position-relative">
                                 <img src="images/blog/02.jpg" class="card-img-top rounded-top" alt="...">
-                            <div class="overlay rounded-top bg-dark"></div>
+                                <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">How apps is changing the IT world</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Como os aplicativos estão mudando o mundo da TI</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
                                 <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
-                    
+
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="card blog rounded border-0 shadow">
                             <div class="position-relative">
                                 <img src="images/blog/03.jpg" class="card-img-top rounded-top" alt="...">
-                            <div class="overlay rounded-top bg-dark"></div>
+                                <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for Business</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Aplicativos Mais Inteligentes para Negócios</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Leia mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
                                 <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 de Agosto, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
+
         </section><!--end section-->
         <!-- Testi End -->
 
