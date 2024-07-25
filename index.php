@@ -10,7 +10,7 @@
         <meta name="keywords" content="marketing digital, google, adwords, publinet, marketing, midias digitais" />
         <meta name="author" content="Publinet" />
         <meta name="email" content="contato@publinet1.com.br" />
-        <meta name="website" content="http://www.shreethemes.in" />
+        <meta name="website" content="https://publinet1.com.br/" />
 
         <!-- favicon -->
         <link rel="shortcut icon" href="images/favicon.ico">
@@ -74,7 +74,7 @@
                     <ul class="navigation-menu">
                         <li><a href="index.html">Home</a></li>
                         <li class="has-submenu">
-                            <a href="javascript:void(0)">Serviços</a><span class="menu-arrow"></span>
+                            <a href="javascript:void(0)">Marketing Digital</a><span class="menu-arrow"></span>
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
@@ -263,7 +263,7 @@
                             </ul>
                         </li>
                         <li class="has-submenu">
-                            <a href="javascript:void(0)">Docs</a><span class="menu-arrow"></span>
+                            <a href="javascript:void(0)">Serviços</a><span class="menu-arrow"></span>
                             <ul class="submenu">
                                 <li><a href="documentation.html">Documentation</a></li>
                                 <li><a href="changelog.html">Changelog</a></li>
@@ -273,7 +273,7 @@
                         </li>
                     </ul><!--end navigation menu-->
                     <div class="menu-btn d-none">
-                        <a href="contatop.php" target="_blank" class="btn btn-primary">Buy Now</a>
+                        <a href="contatop.php" target="_blank" class="btn btn-primary">Contato</a>
                     </div><!--end login button-->
                 </div><!--end navigation-->
             </div><!--end container-->
@@ -356,9 +356,9 @@
 
                     <div class="col-lg-6 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <div class="section-title ml-lg-3">
-                            <h4 class="title mb-4">Great Product Analytics With Real Problem</h4>
-                            <p class="text-muted">Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts. If the distribution of letters visual impact.</p>
-                            <a href="javascript:void(0)" class="mt-3 h6 text-primary">Find Out More <i class="mdi mdi-chevron-right"></i></a>
+                            <h4 class="title mb-4">Soluções Eficazes para Problemas no Google Ads</h4>
+                            <p class="text-muted">Resolvemos problemas de marketing e análise no Google Ads identificando e corrigindo padrões ineficazes, otimizando campanhas e ajustando estratégias com base em dados precisos para maximizar o impacto e melhorar o desempenho.</p>
+                            <a href="javascript:void(0)" class="mt-3 h6 text-primary">Quero Saber Mais Sobre Isso <i class="mdi mdi-chevron-right"></i></a>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -389,12 +389,13 @@
         <section class="section">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title mb-4 pb-2">
-                            <h4 class="title mb-4">Template Key Features</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        </div>
-                    </div><!--end col-->
+                <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2">
+                    <h4 class="title mb-4">Principais Recursos da Publinet</h4>
+                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com <span class="text-primary font-weight-bold">Publinet</span> e descubra como nossa expertise em marketing digital pode transformar sua presença online, aumentar seu alcance e maximizar seus resultados.</p>
+                </div>
+            </div><!--end col-->
+
                 </div><!--end row-->
 
                 <div class="row">
@@ -519,12 +520,13 @@
         <section class="section bg-light">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title mb-4 pb-2">
-                            <h4 class="title mb-4">Client Reviews</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        </div>
-                    </div><!--end col-->
+                <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2">
+                    <h4 class="title mb-4">Avaliações de Clientes</h4>
+                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com a <span class="text-primary font-weight-bold">Landrick</span> e obtenha tudo o que você precisa para gerar visibilidade, atrair tráfego e conectar-se com seu público.</p>
+                </div>
+            </div><!--end col-->
+
                 </div><!--end row-->
 
                 <div class="row justify-content-center">
@@ -726,7 +728,7 @@
                         <a href="#" class="logo-footer">
                             <img src="images/logo-light.png" height="24" alt="">
                         </a>
-                        <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <p class="mt-4">Comece a trabalhar com a Publinet e descubra como é maravilhoso ter tudo o que você precisa para gerar visibilidade, atrair visitantes e conectar-se com seu público.</p>
                         <ul class="list-unstyled social-icon social mb-0 mt-4">
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
@@ -736,44 +738,44 @@
                     </div><!--end col-->
                     
                     <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <h4 class="text-light footer-head">Company</h4>
+                        <h4 class="text-light footer-head">Empresa</h4>
                         <ul class="list-unstyled footer-list mt-4">
-                            <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> About us</a></li>
-                            <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
-                            <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
-                            <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
-                            <li><a href="page-work-modern.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Project</a></li>
-                            <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
+                            <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Sobre nós</a></li>
+                            <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Serviços</a></li>
+                            <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Equipe</a></li>
+                            <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Preços</a></li>
+                            <li><a href="page-work-modern.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Projetos</a></li>
+                            <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Carreiras</a></li>
                             <li><a href="page-blog-grid.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
                             <li><a href="auth-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
                         </ul>
                     </div><!--end col-->
-                    
+
                     <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <h4 class="text-light footer-head">Usefull Links</h4>
+                        <h4 class="text-light footer-head">Links Úteis</h4>
                         <ul class="list-unstyled footer-list mt-4">
-                            <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms of Services</a></li>
-                            <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Policy</a></li>
-                            <li><a href="documentation.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentation</a></li>
-                            <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Changelog</a></li>
-                            <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Components</a></li>
+                            <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Termos de Serviço</a></li>
+                            <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Política de Privacidade</a></li>
+                            <li><a href="documentation.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentação</a></li>
+                            <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Mudanças</a></li>
+                            <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Componentes</a></li>
                         </ul>
                     </div><!--end col-->
 
                     <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <h4 class="text-light footer-head">Newsletter</h4>
-                        <p class="mt-4">Sign up and receive the latest tips via email.</p>
+                        <p class="mt-4">Increva-se e receba as novidades por E-mail.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="foot-subscribe form-group position-relative">
-                                        <label>Write your email <span class="text-danger">*</span></label>
+                                        <label>Escreva seu email <span class="text-danger">*</span></label>
                                         <i data-feather="mail" class="fea icon-sm icons"></i>
-                                        <input type="email" name="email" id="emailsubscribe" class="form-control pl-5 rounded" placeholder="Your email : " required>
+                                        <input type="email" name="email" id="emailsubscribe" class="form-control pl-5 rounded" placeholder="Seu email : " required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
-                                    <input type="submit" id="submitsubscribe" name="send" class="btn btn-soft-primary btn-block" value="Subscribe">
+                                    <input type="submit" id="submitsubscribe" name="send" class="btn btn-soft-primary btn-block" value="Increva-se">
                                 </div>
                             </div>
                         </form>
@@ -786,18 +788,18 @@
                 <div class="row align-items-center">
                     <div class="col-sm-6">
                         <div class="text-sm-left">
-                            <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+                            <p class="mb-0">© <?= date('Y') ?> Publinet. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://publinet1.com.br/" target="_blank" class="text-reset">Publinet</a>.</p>
                         </div>
                     </div><!--end col-->
 
                     <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <ul class="list-unstyled text-sm-right mb-0">
+                        <!-- <ul class="list-unstyled text-sm-right mb-0">
                             <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/american-ex.png" class="avatar avatar-ex-sm" title="American Express" alt=""></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/discover.png" class="avatar avatar-ex-sm" title="Discover" alt=""></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/master-card.png" class="avatar avatar-ex-sm" title="Master Card" alt=""></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/paypal.png" class="avatar avatar-ex-sm" title="Paypal" alt=""></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/visa.png" class="avatar avatar-ex-sm" title="Visa" alt=""></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
