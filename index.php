@@ -534,81 +534,97 @@
                 </div>
             </div><!--end col-->
 
-            <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                <div class="media key-feature align-items-center p-3 rounded shadow">
-                    <div class="icon text-center rounded-circle mr-3">
-                        <i data-feather="activity" class="fea icon-ex-md text-primary"></i>
-                    </div>
-                    <div class="media-body">
-                        <h4 class="title mb-0">Métricas de Performance e Acessibilidade</h4>
-                    </div>
-                </div>
-            </div><!--end col-->
+                <div class="row justify-content-center">
+                <div class="col-lg-12 mt-4">
+                    <div id="customer-testi" class="owl-carousel owl-theme">
+                        <div class="media customer-testi m-2">
+                            <img src="images/christa-smith.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet transformou nossa presença online com estratégias de marketing digital que realmente funcionam. Não poderíamos estar mais satisfeitos com os resultados!"</p>
+                                <h6 class="text-primary">- João Silva <small class="text-muted">CEO</small></h6>
+                            </div>
+                        </div>
+                        
+                        <div class="media customer-testi m-2">
+                            <img src="images/barbara-mcintosh.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A equipe da Publinet é altamente profissional e seus insights em campanhas de Google Ads foram um divisor de águas para o nosso negócio."</p>
+                                <h6 class="text-primary">- Maria Oliveira <small class="text-muted">Diretora de Marketing</small></h6>
+                            </div>
+                        </div>
 
-            <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                <div class="media key-feature align-items-center p-3 rounded shadow">
-                    <div class="icon text-center rounded-circle mr-3">
-                        <i data-feather="settings" class="fea icon-ex-md text-primary"></i>
-                    </div>
-                    <div class="media-body">
-                        <h4 class="title mb-0">Fácil Personalização</h4>
-                    </div>
-                </div>
-            </div><!--end col-->
+                        <div class="media customer-testi m-2">
+                            <img src="images/jill-webb.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet entregou resultados excepcionais e superou nossas expectativas com uma abordagem inovadora e personalizada."</p>
+                                <h6 class="text-primary">- Carlos Almeida <small class="text-muted">Fundador</small></h6>
+                            </div>
+                        </div>
 
-            <div class="col-12 mt-4 pt-2 text-center">
-                <a href="javascript:void(0)" class="btn btn-primary">Veja Mais <i class="mdi mdi-arrow-right"></i></a>
-            </div><!--end col-->
-        </div><!--end row-->
+                        <div class="media customer-testi m-2">
+                            <img src="images/carl-oliver.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"Com a Publinet, nosso ROI em campanhas de Google Ads aumentou significativamente. Eles realmente entendem do que estão falando."</p>
+                                <h6 class="text-primary">- Ana Costa <small class="text-muted">Gerente de Projetos</small></h6>
+                            </div>
+                        </div>
 
+                        <div class="media customer-testi m-2">
+                            <img src="images/thomas-israel.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A expertise da Publinet em publicidade digital nos ajudou a alcançar novos patamares. Agradecemos pelo suporte contínuo e pela abordagem estratégica."</p>
+                                <h6 class="text-primary">- Rafael Lima <small class="text-muted">Consultor</small></h6>
+                            </div>
+                        </div>
 
-    </div><!--end container-->
-</section><!--end section-->
-<!-- Key Feature End -->
-
-<!-- Shape Start -->
-<div class="position-relative">
-    <div class="shape overflow-hidden text-light">
-        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
-        </svg>
-    </div>
-</div>
-<!--Shape End-->
-
-<!-- Testi Start -->
-<section class="section bg-light">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12 text-center">
-                <div class="section-title mb-4 pb-2">
-                    <h4 class="title mb-4">Avaliações de Clientes</h4>
-                    <p class="text-muted para-desc mx-auto mb-0">Comece a trabalhar com a <span
-                                class="text-primary font-weight-bold">Publinet</span> e descubra por que nossos clientes
-                        elogiam nosso compromisso com resultados excepcionais e atendimento personalizado.</p>
-
-                </div>
-            </div><!--end col-->
-
-        </div><!--end row-->
-
-        <div class="row justify-content-center">
-            <div class="col-lg-12 mt-4">
-                <div id="customer-testi" class="owl-carousel owl-theme">
-                    <div class="media customer-testi m-2">
-                        <img src="images/client/01.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                        <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                            <ul class="list-unstyled mb-0">
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                            </ul>
-                            <p class="text-muted mt-2">"A Publinet transformou nossa presença online com estratégias de
-                                marketing digital que realmente funcionam. Não poderíamos estar mais satisfeitos com os
-                                resultados!"</p>
-                            <h6 class="text-primary">- João Silva <small class="text-muted">CEO</small></h6>
+                        <div class="media customer-testi m-2">
+                            <img src="images/dean-tolle.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
+                                </ul>
+                                <p class="text-muted mt-2">"A Publinet é uma parceira valiosa para qualquer empresa que busca maximizar seu impacto digital. Recomendamos fortemente!"</p>
+                                <h6 class="text-primary">- Beatriz Rocha <small class="text-muted">Diretora de Vendas</small></h6>
+                            </div>
                         </div>
                     </div>
 
