@@ -21,9 +21,9 @@
         <!-- Icons -->
         <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css">
-        <!-- Slider -->               
-        <link rel="stylesheet" href="css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="css/owl.theme.default.min.css"/> 
+        <!-- Slider -->
+        <link rel="stylesheet" href="css/owl.carousel.min.css"/>
+        <link rel="stylesheet" href="css/owl.theme.default.min.css"/>
         <!-- Main Css -->
         <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
         <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
@@ -50,7 +50,7 @@
                     <a class="logo" href="index.html">
                         <img src="images/publinet-logo.png" height="50" alt="">
                     </a>
-                </div>                 
+                </div>
                 <div class="buy-button">
                     <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Contato</a>
                 </div><!--end login button-->
@@ -68,9 +68,9 @@
                         <!-- End mobile menu toggle-->
                     </div>
                 </div>
-        
+
                 <div id="navigation">
-                    <!-- Navigation Menu-->   
+                    <!-- Navigation Menu-->
                     <ul class="navigation-menu">
                         <li><a href="index.html">Home</a></li>
                         <li class="has-submenu">
@@ -130,10 +130,10 @@
                                         <li><a href="index-ebook.html">E-Book</a></li>
                                         <li><a href="index-onepage.html">Saas <span class="badge badge-pill badge-warning ml-2">Onepage</span></a></li>
                                     </ul>
-                                </li>   
+                                </li>
                             </ul>
                         </li>
-        
+
                         <li class="has-submenu">
                             <a href="javascript:void(0)">Cases</a><span class="menu-arrow"></span>
                             <ul class="submenu">
@@ -145,7 +145,7 @@
                                         <li><a href="page-history.html">History <span class="badge badge-success rounded">New</span></a></li>
                                         <li><a href="page-team.html"> Team</a></li>
                                         <li><a href="page-pricing.html">Pricing</a></li>
-                                    </ul> 
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Account <span class="badge badge-primary rounded">Added</span></a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -156,7 +156,7 @@
                                         <li><a href="account-payments.html">Payments <span class="badge badge-success rounded">New</span></a></li>
                                         <li><a href="account-setting.html">Setting</a></li>
                                         <li><a href="page-invoice.html">Invoice</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Shop </a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -165,7 +165,7 @@
                                         <li><a href="shop-cart.html">Shop Cart</a></li>
                                         <li><a href="shop-checkouts.html">Checkouts</a></li>
                                         <li><a href="shop-myaccount.html">My Account</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Help center </a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -173,14 +173,14 @@
                                         <li><a href="helpcenter-faqs.html">Faqs</a></li>
                                         <li><a href="helpcenter-guides.html">Guides</a></li>
                                         <li><a href="helpcenter-support-request.html">Support Call</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Forums <span class="badge badge-danger rounded">v2.5</span></a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
                                         <li><a href="forums.html">Overview <span class="badge badge-success rounded">New</span></a></li>
                                         <li><a href="forums-topic.html">Forum Topic <span class="badge badge-success rounded">New</span></a></li>
                                         <li><a href="forums-comments.html">Forum Comments <span class="badge badge-success rounded">New</span></a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Email Template</a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -188,7 +188,7 @@
                                         <li><a href="email-password-reset.html">Reset Password</a></li>
                                         <li><a href="email-alert.html">Alert</a></li>
                                         <li><a href="email-invoice.html">Invoice</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)">Careers</a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -198,7 +198,7 @@
                                         <li><a href="page-job-apply.html">Job Apply</a></li>
                                         <li><a href="page-job-company.html">Company</a></li>
                                         <li><a href="page-job-candidate.html">Candidate</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Blog <span class="badge badge-primary rounded">Added</span></a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -208,7 +208,7 @@
                                         <li><a href="page-blog-list-sidebar.html">Blog List & Sidebar</a></li>
                                         <li><a href="page-blog-detail.html">Blog Detail</a></li>
                                         <li><a href="page-blog-detail-two.html">Blog Detail 2 <span class="badge badge-success rounded">New</span></a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Case Study <span class="badge badge-danger rounded">v2.5</span></a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -223,7 +223,7 @@
                                         <li><a href="page-work-grid.html">Works Grid</a></li>
                                         <li><a href="page-work-masonry.html">Works Masonry</a></li>
                                         <li><a href="page-work-detail.html">Work Detail</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Auth Pages</a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -236,13 +236,13 @@
                                         <li><a href="auth-re-password.html">Reset Password</a></li>
                                         <li><a href="auth-cover-re-password.html">Reset Password Cover</a></li>
                                         <li><a href="auth-re-password-three.html">Reset Password Simple</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Utility </a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
                                         <li><a href="page-terms.html">Terms of Services</a></li>
                                         <li><a href="page-privacy.html">Privacy Policy</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                                 <li class="has-submenu"><a href="javascript:void(0)"> Special </a><span class="submenu-arrow"></span>
                                     <ul class="submenu">
@@ -258,7 +258,7 @@
                                         <li><a href="page-contact-one.html">Contact One</a></li>
                                         <li><a href="page-contact-two.html">Contact Two</a></li>
                                         <li><a href="page-contact-three.html">Contact Three</a></li>
-                                    </ul>  
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
@@ -279,7 +279,7 @@
             </div><!--end container-->
         </header><!--end header-->
         <!-- Navbar End -->
-        
+
         <!-- Hero Start -->
         <section class="bg-half-170 border-bottom agency-wrapper d-table w-100" id="home">
             <div class="container">
@@ -299,7 +299,7 @@
                         <img src="images/illustrator/working_with_computer.svg" class="img-fluid" alt="">
                     </div>
                 </div><!--end row-->
-            </div><!--end container--> 
+            </div><!--end container-->
         </section><!--end section-->
         <!-- Hero End -->
 
@@ -319,7 +319,7 @@
                             </div>
                         </div>
                     </div><!--end col-->
-                    
+
                     <div class="col-md-4 col-12 mt-5 mt-sm-0">
                         <div class="features text-center">
                             <div class="image position-relative d-inline-block">
@@ -332,7 +332,7 @@
                             </div>
                         </div>
                     </div><!--end col-->
-                    
+
                     <div class="col-md-4 col-12 mt-5 mt-sm-0">
                         <div class="features text-center">
                             <div class="image position-relative d-inline-block">
@@ -364,7 +364,7 @@
                 </div><!--end row-->
             </div><!--end container-->
         </section><!--end section-->
-        <!-- Feature End --> 
+        <!-- Feature End -->
 
         <!-- CTA Start -->
         <section class="section bg-cta" style="background: url('images/1.jpg') center center;">
@@ -409,7 +409,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -420,7 +420,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -431,7 +431,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -442,7 +442,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -453,7 +453,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -464,7 +464,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -475,7 +475,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -486,7 +486,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
@@ -497,7 +497,7 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                
+
                 <div class="col-12 mt-4 pt-2 text-center">
                     <a href="javascript:void(0)" class="btn btn-primary">Veja Mais <i class="mdi mdi-arrow-right"></i></a>
                 </div><!--end col-->
@@ -549,7 +549,7 @@
                                 <h6 class="text-primary">- João Silva <small class="text-muted">CEO</small></h6>
                             </div>
                         </div>
-                        
+
                         <div class="media customer-testi m-2">
                             <img src="images/carl-oliver.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
@@ -635,8 +635,8 @@
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
-                            <h4 class="title mb-4">Latest News</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <h4 class="title mb-4">Últimas Notícias</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Fique por dentro das últimas novidades da <span class="text-primary font-weight-bold">Publinet</span> e descubra como nossa expertise em marketing digital pode transformar sua presença online e maximizar o alcance do seu negócio.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -649,13 +649,13 @@
                             <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your own way</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Personalize suas campanhas com a Publinet</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
@@ -672,13 +672,13 @@
                             <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">How apps is changing the IT world</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Como a Publinet está transformando o marketing digital</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
@@ -695,13 +695,13 @@
                             <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="card-body content">
-                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for Business</a></h5>
+                                <h5><a href="javascript:void(0)" class="card-title title text-dark">Soluções inovadoras da Publinet para o seu negócio</a></h5>
                                 <div class="post-meta d-flex justify-content-between mt-3">
                                     <ul class="list-unstyled mb-0">
                                         <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
                                         <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
                                     </ul>
-                                    <a href="page-blog-detail.html" class="text-muted readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                    <a href="page-blog-detail.html" class="text-muted readmore">Mais <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
                             </div>
                             <div class="author">
@@ -731,7 +731,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                         <a href="#" class="logo-footer">
-                            <img src="images/logo-light.png" height="24" alt="">
+                            <img src="images/publinet-logo.png" height="110" alt="">
                         </a>
                         <p class="mt-4">Comece a trabalhar com a Publinet e descubra como é maravilhoso ter tudo o que você precisa para gerar visibilidade, atrair visitantes e conectar-se com seu público.</p>
                         <ul class="list-unstyled social-icon social mb-0 mt-4">
@@ -741,7 +741,7 @@
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
                         </ul><!--end icon-->
                     </div><!--end col-->
-                    
+
                     <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <h4 class="text-light footer-head">Empresa</h4>
                         <ul class="list-unstyled footer-list mt-4">
@@ -821,8 +821,8 @@
         <script src="js/jquery.easing.min.js"></script>
         <script src="js/scrollspy.min.js"></script>
         <!-- Magnific Popup -->
-        <script src="js/jquery.magnific-popup.min.js"></script> 
-        <script src="js/magnific.init.js"></script> 
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific.init.js"></script>
         <!-- SLIDER -->
         <script src="js/owl.carousel.min.js "></script>
         <script src="js/owl.init.js "></script>
