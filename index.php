@@ -536,7 +536,7 @@
                 <div class="col-lg-12 mt-4">
                     <div id="customer-testi" class="owl-carousel owl-theme">
                         <div class="media customer-testi m-2">
-                            <img src="images/client/01.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/thomas-israel.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
@@ -551,7 +551,7 @@
                         </div>
                         
                         <div class="media customer-testi m-2">
-                            <img src="images/client/02.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/carl-oliver.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
@@ -566,7 +566,7 @@
                         </div>
 
                         <div class="media customer-testi m-2">
-                            <img src="images/client/03.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/jill-webb.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
@@ -581,7 +581,7 @@
                         </div>
 
                         <div class="media customer-testi m-2">
-                            <img src="images/client/04.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/barbara-mcintosh.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
@@ -596,7 +596,7 @@
                         </div>
 
                         <div class="media customer-testi m-2">
-                            <img src="images/client/05.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/christa-smith.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
@@ -611,7 +611,7 @@
                         </div>
 
                         <div class="media customer-testi m-2">
-                            <img src="images/client/06.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
+                            <img src="images/dean-tolle.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
                             <div class="media-body content p-3 shadow rounded bg-white position-relative">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
