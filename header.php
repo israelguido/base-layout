@@ -66,8 +66,8 @@
                             <a href="javascript:void(0)">Serviços</a><span class="menu-arrow"></span>
                             <ul class="submenu">
                                 <li><a href="criacao-de-sites.php">Criação de sites</a></li>
-                                <li><a href="changelog.html">Agência de SEO</a></li>
-                                <li><a href="components.html">Tráfego pago</a></li>
+                                <li><a href="agencia-de-seo.php">Agência de SEO</a></li>
+                                <li><a href="trafego-pago.php">Tráfego pago</a></li>
                                 <li><a href="widget.html">Gestão de redes sociais</a></li>
                                 <li><a href="widget.html">Marketing de posicionamento na internet</a></li>
                                 <li><a href="widget.html">Gestão de Google meu negócio</a></li>

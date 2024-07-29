@@ -66,7 +66,7 @@
                 <div class="row align-items-center">
                     <div class="col-sm-6">
                         <div class="text-sm-left">
-                            <p class="mb-0">© <?= date('Y') ?> Publinet. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://publinet1.com.br/" target="_blank" class="text-reset">Publinet</a>.</p>
+                            <p class="mb-0">© <?= date('Y') ?> Publinet</p>
                         </div>
                     </div><!--end col-->
 
