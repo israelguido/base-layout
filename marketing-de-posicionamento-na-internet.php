@@ -61,7 +61,7 @@
             <p class="text-secondary">É fundamental que todo empresário que deseja sucesso para a sua empresa saiba o que é o Marketing de Posicionamento na Internet ou MPI como também é conhecido.</p>
             <p class="text-secondary">Porém, devido as correrias empresariais e a falta de conhecimento com o mundo digital muitas empresas acabam deixando de lado a divulgação na internet, sem sombra de dúvidas isso é um erro muito grave.</p>
             <p class="text-secondary">Basicamente o MPI são estratégias feitas para destacar a sua empresa na internet, com o marketing de posicionamento na internet a sua empresa terá mais visibilidade para os potenciais clientes, crescendo assim as visitas no site e possíveis conversões.</p>
-            <a href="javascript:void(0)" class="btn btn-primary">Entre em Contato<i class="mdi mdi-chevron-right"></i></a>
+            <a href="javascript:void(0)" class="btn btn-primary">Fale Com Um Consultor<i class="mdi mdi-chevron-right"></i></a>
         </div>
     </div>
 
