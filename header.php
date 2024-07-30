@@ -70,9 +70,9 @@
                                 <li><a href="trafego-pago.php">Tráfego pago</a></li>
                                 <li><a href="gestao-de-redes-sociais.php">Gestão de redes sociais</a></li>
                                 <li><a href="marketing-de-posicionamento-na-internet.php">Marketing de posicionamento na internet</a></li>
-                                <li><a href="widget.html">Gestão de Google meu negócio</a></li>
-                                <li><a href="widget.html">Loja virtual</a></li>
-                                <li><a href="widget.html">Landing page</a></li>
+                                <li><a href="gestao-de-google-meu-negocio.php">Gestão de Google meu negócio</a></li>
+                                <li><a href="loja-virtual.php">Loja virtual</a></li>
+                                <li><a href="landing-page.php">Landing page</a></li>
                             </ul>
                         </li>
                         <li class="has-submenu">
