@@ -126,40 +126,11 @@
                         <li class="list-group-item border-0 text-secondary">Consultoria estratégica</li>
                     </ul>
                 </li>
-                <a href="javascript:void(0)" class="btn btn-primary">Entre em Contato<i class="mdi mdi-chevron-right"></i></a>
             </ul>
         </div>
     </div>
     <div class="row">
         <div class="col-10">
-            <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Onde a Publinet atua como uma empresa de criação de sites?</h3>
-            <ul class="list-inline-group">
-                <li class="list-inline-item text-secondary border-0">São Paulo |</li>
-                <li class="list-inline-item text-secondary border-0">Guarulhos |</li>
-                <li class="list-inline-item text-secondary border-0">São Bernardo do Campo |</li>
-                <li class="list-inline-item text-secondary border-0">Santo André |</li>
-                <li class="list-inline-item text-secondary border-0">Osasco |</li>
-                <li class="list-inline-item text-secondary border-0">São Caetano do Sul |</li>
-                <li class="list-inline-item text-secondary border-0">Diadema |</li>
-                <li class="list-inline-item text-secondary border-0">Carapicuíba |</li>
-                <li class="list-inline-item text-secondary border-0">Itaquaquecetuba |</li>
-                <li class="list-inline-item text-secondary border-0">Mogi das Cruzes |</li>
-                <li class="list-inline-item text-secondary border-0">Mauá |</li>
-                <li class="list-inline-item text-secondary border-0">Taboão da Serra |</li>
-                <li class="list-inline-item text-secondary border-0">Barueri |</li>
-                <li class="list-inline-item text-secondary border-0">Suzano |</li>
-                <li class="list-inline-item text-secondary border-0">Itapecerica da Serra |</li>
-                <li class="list-inline-item text-secondary border-0">Ferraz de Vasconcelos |</li>
-                <li class="list-inline-item text-secondary border-0">Cotia |</li>
-                <li class="list-inline-item text-secondary border-0">Franco da Rocha |</li>
-                <li class="list-inline-item text-secondary border-0">Francisco Morato |</li>
-                <li class="list-inline-item text-secondary border-0">Poá |</li>
-                <li class="list-inline-item text-secondary border-0">Itapevi |</li>
-                <li class="list-inline-item text-secondary border-0">São Lourenço da Serra |</li>
-                <li class="list-inline-item text-secondary border-0">Embu das Artes |</li>
-                <li class="list-inline-item text-secondary border-0">Santana de Parnaíba |</li>
-                <li class="list-inline-item text-secondary border-0">Itaquaquecetuba </li>
-            </ul>
             <img src="images/Ed.png" class="img-fluid mt-5 mb-5" alt="Edmilson Ribeiro">
         </div>
     </div>
