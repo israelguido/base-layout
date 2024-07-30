@@ -68,7 +68,7 @@
                                 <li><a href="criacao-de-sites.php">Criação de sites</a></li>
                                 <li><a href="agencia-de-seo.php">Agência de SEO</a></li>
                                 <li><a href="trafego-pago.php">Tráfego pago</a></li>
-                                <li><a href="widget.html">Gestão de redes sociais</a></li>
+                                <li><a href="gestao-de-redes-sociais.php">Gestão de redes sociais</a></li>
                                 <li><a href="widget.html">Marketing de posicionamento na internet</a></li>
                                 <li><a href="widget.html">Gestão de Google meu negócio</a></li>
                                 <li><a href="widget.html">Loja virtual</a></li>
