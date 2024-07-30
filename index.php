@@ -73,7 +73,7 @@
             <div class="container mt-100 mt-60">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
-                        <img src="images/saas/2.png" class="img-fluid" alt="">
+                        <img src="images/desenvolvimento-web.png" class="img-fluid" alt="">
                     </div><!--end col-->
 
                     <div class="col-lg-6 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
