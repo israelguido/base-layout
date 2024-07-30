@@ -35,7 +35,7 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.html">
+                    <a class="logo" href="index.php">
                         <img src="images/publinet-logo.png" height="50" alt="">
                     </a>
                 </div>
@@ -69,7 +69,7 @@
                                 <li><a href="agencia-de-seo.php">Agência de SEO</a></li>
                                 <li><a href="trafego-pago.php">Tráfego pago</a></li>
                                 <li><a href="gestao-de-redes-sociais.php">Gestão de redes sociais</a></li>
-                                <li><a href="widget.html">Marketing de posicionamento na internet</a></li>
+                                <li><a href="marketing-de-posicionamento-na-internet.php">Marketing de posicionamento na internet</a></li>
                                 <li><a href="widget.html">Gestão de Google meu negócio</a></li>
                                 <li><a href="widget.html">Loja virtual</a></li>
                                 <li><a href="widget.html">Landing page</a></li>
