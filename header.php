@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
     <html lang="pt_BR">
 
@@ -78,27 +77,8 @@
                         <li class="has-submenu">
                             <a href="javascript:void(0)">Portfolio</a><span class="menu-arrow"></span>
                             <ul class="submenu">
-                                <li class="has-submenu"><a href="javascript:void(0)"> Sites Profissionais </a><span class="submenu-arrow"></span>
-                                    <ul class="submenu">
-                                        <li><a href="page-aboutus.html">Exemplo 1</a></li>
-                                        <li><a href="page-aboutus-two.html">Exemplo 2</a></li>
-                                        <li><a href="page-services.html">Exemplo 3</a></li>
-                                        <li><a href="page-history.html">Exemplo 4</a></li>
-                                        <li><a href="page-team.html">Exemplo 5</a></li>
-                                        <li><a href="page-pricing.html">Exemplo 6</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-submenu"><a href="javascript:void(0)"> SEO </a><span class="submenu-arrow"></span>
-                                    <ul class="submenu">
-                                        <li><a href="account-profile.html">Exemplo 1</a></li>
-                                        <li><a href="account-members.html">Exemplo 2</a></li>
-                                        <li><a href="account-works.html">Exemplo 3</a></li>
-                                        <li><a href="account-messages.html">Exemplo 4</a></li>
-                                        <li><a href="account-payments.html">Exemplo 5</a></li>
-                                        <li><a href="account-setting.html">Exemplo 6</a></li>
-                                        <li><a href="page-invoice.html">Exemplo 7</a></li>
-                                    </ul>
-                                </li>
+                                <li class="has-submenu"><a href="sites-profissionais.php"> Sites Profissionais </a></li>
+                                <li class="has-submenu"><a href="seo-portifolio.php"> SEO </a></li>
                             </ul>
                         </li>
                         <li><a href="contato.php">Contato</a></li>

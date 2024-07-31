@@ -104,5 +104,46 @@
         <script src="https://unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"></script>
         <!-- Main Js -->
         <script src="js/app.js"></script>
-    </body>
-</html>
+        <!-- Incluindo jQuery Mask Plugin -->
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+        <script>
+            // Função para mostrar ou ocultar o div com base na seleção
+            document.getElementById('site').addEventListener('change', function() {
+                var siteHiddenDiv = document.querySelector('.site-hidden');
+                if (this.value === 'Sim') {
+                    siteHiddenDiv.style.display = 'block';
+                } else {
+                    siteHiddenDiv.style.display = 'none';
+                }
+            });
+
+
+            // Máscara para o campo de Whatsapp
+            $('#whatsapp').mask('+00 (00) 00000-0000');
+
+            // Máscara para o campo de Website (adapte conforme necessário)
+            $(document).ready(function() {
+                $('#website').mask('A', {
+                    translation: {
+                        'A': {
+                            pattern: /[\w\d\-\.\/:\?=&%]/, // Permite caracteres alfanuméricos, hífen, ponto, barra, dois pontos, interrogação, igual e porcentagem
+                            recursive: true
+                        }
+                    },
+                    placeholder: 'http://www.exemplo.com.br'
+                });
+
+                // Ajustar a máscara se o usuário não inserir o protocolo
+                $('#website').on('input', function() {
+                    var value = $(this).val();
+                    if (!/^https?:\/\//i.test(value)) {
+                        $(this).val('http://' + value);
+                    }
+                });
+
+            });
+        </script>
+        </body>
+
+        </html>
