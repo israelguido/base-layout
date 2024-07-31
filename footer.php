@@ -108,17 +108,6 @@
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
         <script>
-            // Função para mostrar ou ocultar o div com base na seleção
-            document.getElementById('site').addEventListener('change', function() {
-                var siteHiddenDiv = document.querySelector('.site-hidden');
-                if (this.value === 'Sim') {
-                    siteHiddenDiv.style.display = 'block';
-                } else {
-                    siteHiddenDiv.style.display = 'none';
-                }
-            });
-
-
             // Máscara para o campo de Whatsapp
             $('#whatsapp').mask('+00 (00) 00000-0000');
 
@@ -142,6 +131,19 @@
                     }
                 });
 
+                    // Validação ao enviar o formulário
+                $('#myForm').on('submit', function(event) {
+                    alert('test');
+                    event.preventDefault();
+
+                    var websiteValue = $('#website').val();
+                    var nameValue = $('#name').val();
+                    var celphone = 5511947326461;
+                    var message = `Olá, vi seu site, sou ${websiteValue} e gostaria de mais informações. Nome: ${nameValue}`;
+                    var encodedMessage = encodeURIComponent(message);
+
+                    window.open(`https://wa.me/${celphone}?text=${encodedMessage}`, '_blank');
+                });
             });
         </script>
         </body>
