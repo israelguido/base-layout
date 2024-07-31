@@ -1,5 +1,8 @@
 
 @import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap");
+
+$color-primary: #283353;
+
 .bg-primary {
   background-color: #2f55d4 !important;
 }
@@ -4836,18 +4839,9 @@ p {
 
 .footer.footer-bar {
   padding: 30px 0;
-  border-top: 1px solid #283353;
+  border-top: 1px solid $color-primary;
 }
 
-.form-contact {
-  float: right;
-  width: 30%; /* Ajuste conforme necessário */
-  margin-right: 10px; /* Espaçamento da direita, ajuste conforme necessário */
-}
-.container {
-  width: 100%; /* Ajuste conforme necessário */
-  overflow: hidden; /* Limpa o float */
-}
 
 /*# sourceMappingURL=style.css.map */
 

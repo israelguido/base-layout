@@ -111,5 +111,3 @@
             </div><!--end container-->
         </header><!--end header-->
 
-
-<div class="container mt-100 mt-60">
