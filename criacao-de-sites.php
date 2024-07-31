@@ -1,6 +1,6 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php") ?>
 
-<div class="container mt-100 mt-60">
     <div class="row">
         <div class="col-10" mt-100>
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Por que minha empresa precisa de um site profissional?</h3>
