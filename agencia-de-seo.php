@@ -2,9 +2,16 @@
 
 <div class="container mt-100 mt-60">
     <div class="row">
-        <div class="col-10">
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">quais são as atribuições de uma agência de SEO?</h3>
             <p class="text-secondary">Uma agência de SEO (Search Engine Optimization) tem como principal objetivo ajudar seus clientes a melhorar a visibilidade e o posicionamento nos resultados de busca orgânica dos motores de busca, como Google, Bing e outros. As atribuições principais de uma agência de SEO geralmente incluem:</p>
+        </div>
+        <div class="col-4 mt-5 mb-2">
+            <img src="images/agencia-de-seo/1.png" alt="Site profissional" width="400px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul>
                 <li class="list-group-item border-0 mb-3"><p class="h5 mt-2 text-primary">Análise e Estratégia de SEO:</p>
                     <ul class="list-group">
@@ -53,10 +60,17 @@
             <p class="text-secondary">Essas são algumas das principais atribuições de uma agência de SEO, que trabalha de forma contínua para melhorar a posição do site nos motores de busca e aumentar o tráfego orgânico de qualidade para seus clientes.</p>
         </div>
     </div>
-    <div class="row">
-        <div class="col-10">
+    <div class="row mt-5 mb-3">
+        <div class="col-4 mr-5 mb-2">
+            <img src="images/agencia-de-seo/2.png" alt="Site profissional" width="400px">
+        </div>
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">quais os benefícios de investir em SEO para o meu site?</h3>
             <p class="text-secondary">Investir em SEO (Search Engine Optimization) pode trazer uma série de benefícios significativos para o seu site e para o seu negócio como um todo:</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul class="list-group">
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Aumento do Tráfego Orgânico:</span> O principal objetivo do SEO é melhorar o posicionamento do seu site nos resultados de busca. Isso significa mais visibilidade para as suas páginas e, consequentemente, um aumento no tráfego orgânico vindo dos motores de busca.</li>
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Geração de Leads e Vendas:</span> Com mais tráfego qualificado chegando ao seu site através de buscas relevantes, há uma maior probabilidade de atrair visitantes interessados nos produtos ou serviços que você oferece. Isso pode resultar em um aumento nas conversões e na geração de leads e vendas.</li>
@@ -69,10 +83,17 @@
             <p class="text-secondary">Em resumo, investir em SEO não é apenas sobre melhorar o ranking do seu site; é sobre atrair tráfego qualificado, gerar leads e vendas, fortalecer a reputação da marca e garantir um crescimento sustentável a longo prazo para o seu negócio online.</p>
         </div>
     </div>
-    <div class="row">
-        <div class="col-10">
+    <div class="row mt-5 mb-2">
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">quanto custa um projeto de SEO?</h3>
             <p class="text-secondary">O custo de um projeto de SEO pode variar bastante dependendo de vários fatores, como a complexidade do site, o estado atual do SEO do site, o tamanho e a competição do mercado-alvo, e os objetivos específicos do cliente. Aqui estão alguns pontos que podem influenciar o custo de um projeto de SEO:</p>
+        </div>
+        <div class="col-4 mb-2">
+            <img src="images/agencia-de-seo/3.png" alt="Site profissional" width="400px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul class="list-group">
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Estado Atual do Site:</span> Sites que já possuem uma base sólida de SEO podem exigir menos trabalho inicial em comparação com sites novos ou com problemas técnicos significativos.</li>
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Escopo e Objetivos:</span> Projetos que visam otimizar um número maior de páginas, segmentos de mercado mais competitivos, ou alcançar resultados mais ambiciosos podem demandar mais tempo e recursos.</li>
