@@ -90,7 +90,7 @@
     <div class="row mt-5 mb-2">
         <div class="col-6">
             <h3 class="mt-5 h2 text-primary text-capitalize">Serviço de TikTok Ads</h3>
-            <p class="text-secondary">Impulsione seu negócio com TikTok Ads!</p>
+            <p class="text-secondary">Os anúncios no TikTok oferecem uma oportunidade única para as marcas se conectarem com um público jovem e altamente engajado. Com formatos de anúncios criativos e interativos, como In-Feed Ads, TopView e Branded Hashtag Challenges, as empresas podem aumentar significativamente sua visibilidade e interação. A plataforma utiliza algoritmos avançados para segmentação precisa, garantindo que seus anúncios alcancem os usuários mais relevantes.</p>
         </div>
         <div class="col-4">
             <img src="images/trafego-pago/3.png" alt="">
