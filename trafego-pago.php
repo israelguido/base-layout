@@ -1,10 +1,17 @@
 <?php include_once("header.php"); ?>
 
 <div class="container mt-100 mt-60">
-    <div class="row">
-        <div class="col-10">
+    <div class="row mt-5 mb-2">
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">como funciona o tráfego pago no google?</h3>
             <p class="text-secondary">O papel de uma agência dentro de uma campanha de tráfego pago no Google (Google Ads) pode ser bastante abrangente e crucial para o sucesso da campanha. Aqui estão as principais funções que uma agência desempenha nesse contexto:</p>
+        </div>
+        <div class="col-4 mr-5 mb-2">
+            <img src="images/trafego-pago/1.png" alt="Site profissional" width="400px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul class="list-group">
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Planejamento Estratégico:</span> A agência ajudará a definir objetivos claros para a campanha de tráfego pago, alinhados com os objetivos de negócio do cliente. Isso inclui determinar o público-alvo ideal, estabelecer métricas de sucesso (KPIs) e definir um orçamento adequado.</li>
                 <li class="list-group-item border-0 mb-2 text-secondary"><span class="text-primary font-weight-bold">Pesquisa de Palavras-Chave:</span> A agência realizará uma pesquisa detalhada de palavras-chave relevantes para o setor do cliente e para os produtos ou serviços específicos que estão sendo promovidos. Isso envolve identificar termos com alto potencial de conversão e baixa concorrência, quando possível.</li>
@@ -17,11 +24,17 @@
             <p class="text-secondary">A Publinet é especializada em tráfego pago no Google e desempenha um papel integral desde o planejamento inicial até a otimização contínua e relatórios de desempenho. Isso permite que o cliente maximize os resultados da sua campanha de marketing digital e alcance seus objetivos comerciais de forma eficaz.</p>
         </div>
     </div>
-
-    <div class="row">
-        <div class="col-10">
+    <div class="row mt-5 mb-2">
+        <div class="col-4 mr-5 mb-2">
+            <img src="images/trafego-pago/1.png" alt="Site profissional" width="400px">
+        </div>
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">qual o papel de um profissional que cria campanhas no meta ads para facebook e instagram?</h3>
             <p class="text-secondary">O papel de um profissional que cria campanhas no Meta Ads (plataforma que engloba Facebook e Instagram) envolve várias responsabilidades essenciais para garantir o sucesso das campanhas de publicidade digital. Aqui estão as principais funções desse profissional:</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul>
                 <li class="list-group-item border-0 mb-3"><p class="h5 mt-2 text-primary">Planejamento Estratégico:</p>
                     <ul class="list-group">
@@ -74,10 +87,15 @@
             <p class="text-secondary">Em resumo, um profissional que cria campanhas no Meta Ads desempenha um papel fundamental na execução de estratégias de marketing digital eficazes para Facebook e Instagram. Eles são responsáveis por cada etapa do processo, desde o planejamento inicial até a análise de resultados, garantindo que as campanhas atinjam os objetivos de negócio do cliente de forma eficiente e rentável.</p>
         </div>
     </div>
-    <div class="row">
-        <div class="col-10">
-            <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Serviço de TikTok Ads</h3>
+    <div class="row mt-5 mb-2">
+        <div class="col-6">
+            <h3 class="mt-5 h2 text-primary text-capitalize">Serviço de TikTok Ads</h3>
             <p class="text-secondary">Impulsione seu negócio com TikTok Ads!</p>
+        </div>
+        <div class="col-4">
+            <img src="images/trafego-pago/3.png" alt="">
+        </div>
+        <div class="col-10">
             <ul>
                 <li class="list-group-item border-0 mb-3"><p class="h5 mt-2 text-primary">Por que TikTok Ads?</p>
                     <ul class="list-group">
