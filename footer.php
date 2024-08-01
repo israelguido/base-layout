@@ -104,5 +104,48 @@
         <script src="https://unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"></script>
         <!-- Main Js -->
         <script src="js/app.js"></script>
-    </body>
-</html>
+        <!-- Incluindo jQuery Mask Plugin -->
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+        <script>
+            // Máscara para o campo de Whatsapp
+            $('#whatsapp').mask('+00 (00) 00000-0000');
+
+            // Máscara para o campo de Website (adapte conforme necessário)
+            $(document).ready(function() {
+                $('#website').mask('A', {
+                    translation: {
+                        'A': {
+                            pattern: /[\w\d\-\.\/:\?=&%]/, // Permite caracteres alfanuméricos, hífen, ponto, barra, dois pontos, interrogação, igual e porcentagem
+                            recursive: true
+                        }
+                    },
+                    placeholder: 'http://www.exemplo.com.br'
+                });
+
+                // Ajustar a máscara se o usuário não inserir o protocolo
+                $('#website').on('input', function() {
+                    var value = $(this).val();
+                    if (!/^https?:\/\//i.test(value)) {
+                        $(this).val('http://' + value);
+                    }
+                });
+
+                    // Validação ao enviar o formulário
+                $('#myForm').on('submit', function(event) {
+                    alert('test');
+                    event.preventDefault();
+
+                    var websiteValue = $('#website').val();
+                    var nameValue = $('#name').val();
+                    var celphone = 5511947326461;
+                    var message = `Olá, vi seu site, sou ${websiteValue} e gostaria de mais informações. Nome: ${nameValue}`;
+                    var encodedMessage = encodeURIComponent(message);
+
+                    window.open(`https://wa.me/${celphone}?text=${encodedMessage}`, '_blank');
+                });
+            });
+        </script>
+        </body>
+
+        </html>
