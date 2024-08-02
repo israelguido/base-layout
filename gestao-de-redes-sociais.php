@@ -1,10 +1,14 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container mt-100 mt-60">
     <div class="row">
-        <div class="col-10" mt-100>
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Gestão de redes sociais</h3>
             <p class="text-secondary">As atribuições de uma agência de marketing na gestão profissional das redes sociais de uma empresa abrangem uma série de atividades estratégicas e operacionais destinadas a melhorar a presença online, engajar o público-alvo e atingir os objetivos de negócios. Aqui estão as principais responsabilidades:</p>
+        </div>
+        <div class="col-4">
+            <img src="images/gestao-de-redes-sociais/1.png" alt="Pessoas usando celular" width="400px">
         </div>
     </div>
     <div class="row">
@@ -68,9 +72,16 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-10">
-            <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Transforme sua presença online com nossa gestão especializada!</h3>
+        <div class="col-4 mr-5">
+            <img src="images/gestao-de-redes-sociais/2.png" alt="Profissional em gestão de redes sociais" width="400px">
+        </div>
+        <div class="col-6 ml-5">
+            <h3 class="mt-5 h2 text-primary text-capitalize">Transforme sua presença online com nossa gestão especializada!</h3>
             <p class="text-secondary">Nossos Serviços:</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-10">
             <ul>
                 <li class="list-group-item border-0 mb-3"><p class="h5 mt-2 text-primary">Planejamento e Estratégia:</p>
                     <ul class="list-group">

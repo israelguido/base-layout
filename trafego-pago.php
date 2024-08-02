@@ -1,4 +1,5 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container mt-100 mt-60">
     <div class="row mt-5 mb-2">
@@ -7,7 +8,7 @@
             <p class="text-secondary">O papel de uma agência dentro de uma campanha de tráfego pago no Google (Google Ads) pode ser bastante abrangente e crucial para o sucesso da campanha. Aqui estão as principais funções que uma agência desempenha nesse contexto:</p>
         </div>
         <div class="col-4 mr-5 mb-2">
-            <img src="images/trafego-pago/1.png" alt="Site profissional" width="400px">
+            <img src="images/trafego-pago/2.png" alt="Grafico de tráfego pago" width="400px">
         </div>
     </div>
     <div class="row">
@@ -26,7 +27,7 @@
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4 mr-5 mb-2">
-            <img src="images/trafego-pago/1.png" alt="Site profissional" width="400px">
+            <img src="images/trafego-pago/1.png" alt="Profissional em campanhas" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">qual o papel de um profissional que cria campanhas no meta ads para facebook e instagram?</h3>
@@ -90,10 +91,10 @@
     <div class="row mt-5 mb-2">
         <div class="col-6">
             <h3 class="mt-5 h2 text-primary text-capitalize">Serviço de TikTok Ads</h3>
-            <p class="text-secondary">Impulsione seu negócio com TikTok Ads!</p>
+            <p class="text-secondary">Os anúncios no TikTok oferecem uma oportunidade única para as marcas se conectarem com um público jovem e altamente engajado. Com formatos de anúncios criativos e interativos, como In-Feed Ads, TopView e Branded Hashtag Challenges, as empresas podem aumentar significativamente sua visibilidade e interação. A plataforma utiliza algoritmos avançados para segmentação precisa, garantindo que seus anúncios alcancem os usuários mais relevantes.</p>
         </div>
         <div class="col-4">
-            <img src="images/trafego-pago/3.png" alt="">
+            <img src="images/trafego-pago/3.png" alt="TikTok Ads">
         </div>
         <div class="col-10">
             <ul>

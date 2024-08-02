@@ -26,25 +26,20 @@
         <!-- Main Css -->
         <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
         <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
-
     </head>
     <body>
-        
     <header id="topnav" class="defaultscroll sticky">
             <div class="container">
-                <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.php">
                         <img src="images/publinet-logo.png" height="50" alt="">
                     </a>
                 </div>
                 <div class="buy-button">
-                    <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Contato</a>
-                </div><!--end login button-->
-                <!-- End Logo container-->
+                    <a href="https://wa.me/5511956722182" target="_blank" class="btn btn-primary">Contato</a>
+                </div>
                 <div class="menu-extras">
                     <div class="menu-item">
-                        <!-- Mobile menu toggle-->
                         <a class="navbar-toggle">
                             <div class="lines">
                                 <span></span>
@@ -52,7 +47,6 @@
                                 <span></span>
                             </div>
                         </a>
-                        <!-- End mobile menu toggle-->
                     </div>
                 </div>
 
