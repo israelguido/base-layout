@@ -11,7 +11,7 @@
                             <h1 class="heading mb-3 text-capitalize">Procurando uma agência de marketing digital?</h1>
                             <p class="para-desc text-secondary">A Publinet é uma <strong>agência de maketing digital</strong> com 16 anos de experiência, ajudando empresas de todos os tamanhos a crescer no mundo digital</p>
                             <div class="watch-video mt-4 pt-2">
-                                <a href="javascript:void(0)" class="btn btn-primary">Saiba Mais <i class="mdi mdi-chevron-right"></i></a>
+                                <a href="https://wa.me/5511956722182" target="_blank" class="btn btn-primary">Saiba Mais <i class="mdi mdi-chevron-right"></i></a>
                                 <a href="https://www.youtube.com/watch?v=OM9UoUolM0M" target="_blank" class="watch text-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white position-relative play play-iconbar"></i> ASSISTA O VIDEO</a>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
-                            <i data-feather="heart" class="fea icon-ex-md text-primary"></i>
+                            <i data-feather="chrome" class="fea icon-ex-md text-primary"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="title mb-0 text-capitalize">Compatível com Todos os Navegadores</h4>
@@ -149,7 +149,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
-                            <i data-feather="feather" class="fea icon-ex-md text-primary"></i>
+                            <i data-feather="flag" class="fea icon-ex-md text-primary"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="title mb-0 text-capitalize">Anúncios Otimizados</h4>
@@ -160,7 +160,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
-                            <i data-feather="pocket" class="fea icon-ex-md text-primary"></i>
+                            <i data-feather="tool" class="fea icon-ex-md text-primary"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="title mb-0 text-capitalize">Desenvolvido com Ferramentas de Marketing</h4>
@@ -193,7 +193,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="media key-feature align-items-center p-3 rounded shadow">
                         <div class="icon text-center rounded-circle mr-3">
-                            <i data-feather="settings" class="fea icon-ex-md text-primary"></i>
+                            <i data-feather="mouse-pointer" class="fea icon-ex-md text-primary"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="title mb-0 text-capitalize">1ª Página do Google sem pagar por clique</h4>
@@ -333,16 +333,5 @@
             </div><!--end container-->
         </section><!--end section-->
         <!-- Testi End -->
-
-        <!-- Shape Start -->
-        <div class="position-relative">
-            <div class="shape overflow-hidden text-footer">
-                <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
-                </svg>
-            </div>
-        </div>
-        <!--Shape End-->
-
         <!-- Footer Start -->
         <?php include_once("footer.php"); ?>

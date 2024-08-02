@@ -3,11 +3,11 @@
 
 <div class="container mt-100 mt-60">
     <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">o que preciso saber para ter uma loja virtual na internet?</h3>
             <p class="text-secondary">Para ter uma loja virtual na internet, você precisa considerar uma série de aspectos que vão desde o planejamento inicial até a gestão contínua do seu negócio online. Aqui estão os principais pontos que você deve saber:</p>
         </div>
-        <div class="col-4 mr-5">
+        <div class="col-12 col-md-4">
             <img src="images/loja-virtual/1.png" alt="Landing page" width="400px">
         </div>
     </div>

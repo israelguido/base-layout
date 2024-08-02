@@ -4,19 +4,19 @@
 <div class="container mt-100">
 
     <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Por que minha empresa precisa de um site profissional?</h3>
             <p class="text-secondary">Ah, ter um site profissional para sua empresa é fundamental nos dias de hoje. É a vitrine digital da sua marca, sua representação online, a manifestação digital do seu negócio no vasto oceano da internet. É o seu bilhete dourado para alcançar um público global e mostrar ao mundo o quão sério e competente é o seu trabalho. Afinal, o site é o seu ultimate braço direito no mundo digital!</p>
         </div>
-        <div class="col-4 ">
+        <div class="col-12 col-md-4">
             <img src="images/criacao-de-sites/3.png" alt="Homem escalando em um gráfico" width="400px">
         </div>
     </div>
     <div class="row">
-        <div class="col-4 mt-100 mr-5">
+        <div class="col-12 col-md-4 mr-md-5">
             <img src="images/criacao-de-sites/1.png" alt="Criação de sites" width="400px">
         </div>
-        <div class="col-6 mt-100">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 mt-5 h2 text-primary text-capitalize">Como é o processo de desenvolvimento de site profissional?</h3>
             <p class="text-secondary">O processo de desenvolvimento de um site profissional geralmente envolve várias etapas fundamentais para garantir que o resultado final atenda aos objetivos da empresa e às expectativas dos usuários. Aqui está um resumo geral do processo:</p>
         </div>
@@ -69,11 +69,11 @@
         </div>
     </div>
     <div class="row mb-3">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Quanto custa ter um site profissional de alta performance?</h3>
             <p class="text-secondary">O custo de um site profissional de alta performance pode variar significativamente dependendo de vários fatores, como complexidade do design, funcionalidades requeridas, tamanho da equipe de desenvolvimento, localização geográfica dos desenvolvedores, entre outros. Aqui estão alguns pontos a considerar:</p>
         </div>
-        <div class="col-4 mt-5">
+        <div class="col-12 col-md-4">
             <img src="images/criacao-de-sites/2.png" alt="Ganhando dinheiro com site profissional" width="400px">
         </div>
     </div>
