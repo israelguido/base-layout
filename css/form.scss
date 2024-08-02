@@ -12,3 +12,8 @@
       text-align: right;
     }
   }
+  @media (max-width: 1300px){
+    .card-body{
+      display: none;
+    }
+  }

@@ -3,19 +3,19 @@
 
 <div class="container mt-100 mt-60">
     <div class="row mt-5 mb-2">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">O que é o Google Meu Negócio?</h3>
             <p class="text-secondary">Trata-se de uma ferramenta gratuita que ajuda as pessoas a encontrarem a sua empresa de maneira mais fácil. Lançado em 2014, portanto, ter uma presença online através de uma boa gestão de Google Meu Negócio é fundamental para ajudar as pessoas a encontrarem sua empresa em diferentes formas de pesquisa, como o nome da empresa, os produtos e/ou serviços oferecidos e em buscas por localização geográfica.</p>
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <img src="images/google-meu-negocio/1.png" alt="Google meu negócio" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-4">
+        <div class="col-12 col-md-4 mr-md-5">
             <img src="images/google-meu-negocio/2.png" alt="Gráfico de investimento" width="400px">
         </div>
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Por que contratar o serviço de gestão?</h3>
             <p class="text-secondary">O Google Meu Negócio é uma ferramenta que explodiu muito nos últimos anos, e se tornou uma das ferramentas mais poderosas e de alto desempenho, principalmente quando se fala em SEO local. Na Publinet1, temos a gestão de Google Meu Negócio como um de nossos principais serviços</p>
         </div>
@@ -66,22 +66,22 @@
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Como Podemos te Ajudar Hoje?</h3>
             <p class="text-secondary">Para quem tem um negócio, a melhor maneira de ser encontrado por potenciais clientes é estando presente no mundo digital.</p>
             <p class="text-secondary">Por isso, se uma pessoa digitar o nome do seu negócio no Google, ele vai te encontrar facilmente? Se a resposta para essa pergunta for “não”, sua empresa pode estar perdendo uma grande oportunidade de conseguir mais clientes e aumentar a posição da marca.</p>
             <p class="text-secondary">Foi pensando nisso que, há alguns anos, o Google criou o Google Meu Negócio.</p>
             <a href="javascript:void(0)" class="btn btn-primary">Fale Com Um Consultor<i class="mdi mdi-chevron-right"></i></a>
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <img src="images/google-meu-negocio/3.png" alt="Trabalho de marketing" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-4 mr-5">
+        <div class="col-12 col-md-4 mr-md-5">
             <img src="images/google-meu-negocio/4.png" alt="Loja virtual" width="400px">
         </div>
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Mas o que é o Google Meu Negócio?</h3>
             <p class="text-secondary">Trata-se de uma ferramenta gratuita que ajuda as pessoas a encontrarem a sua empresa de maneira mais fácil. Lançado em 2014, ele pode ajudar potenciais clientes a terem um acesso completo a respeito das informações da sua empresa.</p>
             <p class="text-secondary">Em negócios locais, essa ferramenta é ainda mais importante.</p>
@@ -90,7 +90,7 @@
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Por que contratar o serviço de gestão de Google Meu Negócio?</h3>
             <p class="text-secondary">O Google Meu Negócio é uma ferramenta que explodiu muito nos últimos anos, e se tornou uma das ferramentas mais poderosas e de alto desempenho, principalmente quando se fala em SEO local.</p>
             <p class="text-secondary">Na Publinet1, temos a gestão de Google Meu Negócio como um de nossos principais serviços, que possui vantagens como:</p>
@@ -101,15 +101,15 @@
             <p class="text-secondary">Ganhar uma vantagem competitiva;</p>
             <p class="text-secondary">E ter acesso a relatórios detalhados com todo o tipo de interação, como os termos mais usados para encontrar o seu negócio.</p>
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <img src="images/google-meu-negocio/5.png" alt="Pessoas trabalhando" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-4 mr-5">
+        <div class="col-12 col-md-4 mr-md-5">
             <img src="images/google-meu-negocio/6.png" alt="Trabalho de marketing digital" width="400px">
         </div>
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Como a Publinet1 faz a gestão de Google Meu Negócio?</h3>
             <p class="text-secondary">O Google é o local onde muitos negócios ocorrem, em vários níveis.</p>
             <p class="text-secondary">Seja um potencial cliente, que procura por uma empresa que atenda às suas necessidades, ou tentando encontrar sua localização e outras informações da empresa, ele está presente em, praticamente, todos esses momentos. A Publinet1 entende que o Google é o seu espaço de vendas.</p>
@@ -119,32 +119,32 @@
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Fazemos com que a sua empresa chame a atenção no mundo digital</h3>
             <p class="text-secondary">Nossos profissionais trabalham desde os pontos principais até os detalhes mais sutis, bem como na otimização e no gerenciamento profissional, que incluem cada parte do perfil de sua empresa no Google Meu Negócio.</p>
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <img src="images/google-meu-negocio/7.png" alt="Trabalho de marketing digital" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-4 mr-5">
+        <div class="col-12 col-md-4 mr-md-5">
             <img src="images/google-meu-negocio/8.png" alt="Google ads" width="400px">
         </div>
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Trabalhamos para que o perfil da sua empresa fique forte e completo</h3>
             <p class="text-secondary">É muito importante otimizar e gerenciar os recursos do Google Meu Negócio para se ter uma vantagem sobre os concorrentes.</p>
             <p class="text-secondary">Pensando nisso, os profissionais da Publinet1 usam todos os recursos dessa ferramenta, para que o perfil da sua empresa fique em dia com as manutenções necessárias.</p>
         </div>
     </div>
     <div class="row mt-5 mb-2">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Conectamos a sua empresa com os clientes</h3>
             <p class="text-secondary">Um perfil no Google Meu Negócio é uma valiosa oportunidade para mostrar a sua empresa para os clientes.</p>
             <p class="text-secondary">Esses clientes irão avaliá-lo com base na frequência de suas atualizações, e também na forma como você interage com comentários e avaliações.</p>
             <p class="text-secondary">Nesse sentido, o serviço de gestão de Google Meu Negócio da Publinet1 ajuda a responder avaliações, como perguntas de clientes, e manter uma boa reputação.</p>
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <img src="images/google-meu-negocio/9.png" alt="Conexão com clientes" width="400px">
         </div>
     </div>
