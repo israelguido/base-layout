@@ -1,10 +1,14 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container mt-100 mt-60">
     <div class="row">
-        <div class="col-10" mt-100>
+        <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Landing page</h3>
             <p class="text-secondary">Uma landing page de alta conversão é projetada para capturar a atenção dos visitantes e guiá-los para realizar uma ação específica, como preencher um formulário, fazer uma compra ou inscrever-se em um serviço. Para criar uma landing page eficaz, é importante focar em diversos atributos essenciais:</p>
+        </div>
+        <div class="col-4 mr-5">
+            <img src="images/landing-page/1.png" alt="Landing page" width="400px">
         </div>
     </div>
     <div class="row">

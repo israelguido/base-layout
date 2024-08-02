@@ -1,4 +1,5 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container">
     <div class="row mt-100">
@@ -7,12 +8,12 @@
             <p class="text-secondary">O Marketing de Posicionamento na Internet (MPI) é uma estratégia essencial para conquistar visibilidade e relevância no cenário digital atual. Por meio de técnicas de otimização de conteúdo, SEO e gerenciamento de reputação online, o MPI permite que sua marca se destaque entre a concorrência e alcance o público-alvo de forma efetiva e impactante.</p>
         </div>
         <div class="col-4">
-            <img src="images/marketing-de-posicionamento-na-internet/1.png" alt="" width="400px">
+            <img src="images/marketing-de-posicionamento-na-internet/2.png" alt="Marketing de posicionamento na internet" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4">
-            <img src="images/marketing-de-posicionamento-na-internet/2.png" alt="" width="400px">
+            <img src="images/marketing-de-posicionamento-na-internet/1.png" alt="Marketing 360" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Por que investir em marketing 360?</h3>
@@ -74,13 +75,13 @@
             <a href="javascript:void(0)" class="btn btn-primary">Fale Com Um Consultor<i class="mdi mdi-chevron-right"></i></a>
         </div>
         <div class="col-4">
-            <img src="images/marketing-de-posicionamento-na-internet/3.png" alt="" width="400px">
+            <img src="images/marketing-de-posicionamento-na-internet/3.png" alt="Trabalhando com MPI" width="400px">
         </div>
     </div>
 
     <div class="row mt-5 mb-2">
         <div class="col-4">
-            <img src="images/marketing-de-posicionamento-na-internet/4.png" alt="" width="400px">
+            <img src="images/marketing-de-posicionamento-na-internet/4.png" alt="Lupa do Google" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Como funciona o MPI?</h3>
@@ -99,7 +100,7 @@
             <p class="text-secondary">A Publinet1 Marketing Digital possui mais de 11 anos de mercado digital, nós vamos muito além de uma criação de sites, nossa empresa é focada em marketing de posicionamento na internet para empresas que assim como nós querem evoluir no mercado digital.</p>
         </div>
         <div class="col-4">
-            <img src="images/marketing-de-posicionamento-na-internet/5.png" alt="" width="400px">
+            <img src="images/marketing-de-posicionamento-na-internet/5.png" alt="Gráfico de investimento" width="400px">
         </div>
     </div>
 

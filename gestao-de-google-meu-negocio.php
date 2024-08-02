@@ -1,4 +1,5 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container mt-100 mt-60">
     <div class="row mt-5 mb-2">
@@ -12,7 +13,7 @@
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4">
-            <img src="images/google-meu-negocio/2.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/2.png" alt="Gráfico de investimento" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">Por que contratar o serviço de gestão?</h3>
@@ -73,12 +74,12 @@
             <a href="javascript:void(0)" class="btn btn-primary">Fale Com Um Consultor<i class="mdi mdi-chevron-right"></i></a>
         </div>
         <div class="col-4">
-            <img src="images/google-meu-negocio/3.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/3.png" alt="Trabalho de marketing" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4 mr-5">
-            <img src="images/google-meu-negocio/4.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/4.png" alt="Loja virtual" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Mas o que é o Google Meu Negócio?</h3>
@@ -101,12 +102,12 @@
             <p class="text-secondary">E ter acesso a relatórios detalhados com todo o tipo de interação, como os termos mais usados para encontrar o seu negócio.</p>
         </div>
         <div class="col-4">
-            <img src="images/google-meu-negocio/5.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/5.png" alt="Pessoas trabalhando" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4 mr-5">
-            <img src="images/google-meu-negocio/6.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/6.png" alt="Trabalho de marketing digital" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Como a Publinet1 faz a gestão de Google Meu Negócio?</h3>
@@ -123,12 +124,12 @@
             <p class="text-secondary">Nossos profissionais trabalham desde os pontos principais até os detalhes mais sutis, bem como na otimização e no gerenciamento profissional, que incluem cada parte do perfil de sua empresa no Google Meu Negócio.</p>
         </div>
         <div class="col-4">
-            <img src="images/google-meu-negocio/7.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/7.png" alt="Trabalho de marketing digital" width="400px">
         </div>
     </div>
     <div class="row mt-5 mb-2">
         <div class="col-4 mr-5">
-            <img src="images/google-meu-negocio/8.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/8.png" alt="Google ads" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mb-2 h2 text-primary text-capitalize">Trabalhamos para que o perfil da sua empresa fique forte e completo</h3>
@@ -144,7 +145,7 @@
             <p class="text-secondary">Nesse sentido, o serviço de gestão de Google Meu Negócio da Publinet1 ajuda a responder avaliações, como perguntas de clientes, e manter uma boa reputação.</p>
         </div>
         <div class="col-4">
-            <img src="images/google-meu-negocio/9.png" alt="Google meu negócio" width="400px">
+            <img src="images/google-meu-negocio/9.png" alt="Conexão com clientes" width="400px">
         </div>
     </div>
     <div class="row">

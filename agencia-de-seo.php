@@ -1,4 +1,5 @@
 <?php include_once("header.php"); ?>
+<?php include("formulario-contato.php"); ?>
 
 <div class="container mt-100 mt-60">
     <div class="row">
@@ -7,7 +8,7 @@
             <p class="text-secondary">Uma agência de SEO (Search Engine Optimization) tem como principal objetivo ajudar seus clientes a melhorar a visibilidade e o posicionamento nos resultados de busca orgânica dos motores de busca, como Google, Bing e outros. As atribuições principais de uma agência de SEO geralmente incluem:</p>
         </div>
         <div class="col-4 mt-5 mb-2">
-            <img src="images/agencia-de-seo/1.png" alt="Site profissional" width="400px">
+            <img src="images/agencia-de-seo/1.png" alt="Pessoas trabalhando com SEO" width="400px">
         </div>
     </div>
     <div class="row">
@@ -62,7 +63,7 @@
     </div>
     <div class="row mt-5 mb-3">
         <div class="col-4 mr-5 mb-2">
-            <img src="images/agencia-de-seo/2.png" alt="Site profissional" width="400px">
+            <img src="images/agencia-de-seo/2.png" alt="Pessoas trabalhando com SEO" width="400px">
         </div>
         <div class="col-6">
             <h3 class="mt-5 mb-2 h2 text-primary text-capitalize">quais os benefícios de investir em SEO para o meu site?</h3>
@@ -89,7 +90,7 @@
             <p class="text-secondary">O custo de um projeto de SEO pode variar bastante dependendo de vários fatores, como a complexidade do site, o estado atual do SEO do site, o tamanho e a competição do mercado-alvo, e os objetivos específicos do cliente. Aqui estão alguns pontos que podem influenciar o custo de um projeto de SEO:</p>
         </div>
         <div class="col-4 mb-2">
-            <img src="images/agencia-de-seo/3.png" alt="Site profissional" width="400px">
+            <img src="images/agencia-de-seo/3.png" alt="Gráfico de investimento" width="400px">
         </div>
     </div>
     <div class="row">

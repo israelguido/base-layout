@@ -1,7 +1,4 @@
-
-        <!-- Navbar STart -->
-        <?php include_once("header.php"); ?>
-        <!-- Navbar End -->
+<?php include_once("header.php"); ?>
 
         <section class="section">
             <div class="container mt-100">
@@ -9,7 +6,6 @@
                     <div class="col-md-6">
                         <img src="images/company/about2.png" class="img-fluid" alt="">
                     </div><!--end col-->
-
                     <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="ml-lg-4">
                             <div class="d-flex mb-4">
@@ -24,21 +20,16 @@
                                 <a href="javascript:void(0)" class="btn btn-primary mt-3">Entre em contato</a>
                             </div>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-
-
-        </section><!--end section-->
-
-
+                    </div>
+                </div>
+            </div>
+        </section>
         <div class="container mt-100 mb-5">
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-12">
                         <div class="card border-0 sidebar sticky-bar">
                         </div>
-                    </div><!--end col-->
-
+                    </div>
                     <div class="col-lg-12 col-md-8 col-12 mt-5 pt-2 mt-sm-0 pt-sm-0">
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
@@ -55,8 +46,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -71,8 +61,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -87,8 +76,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -103,8 +91,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -119,8 +106,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -135,8 +121,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -151,8 +136,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -167,8 +151,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -183,8 +166,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -199,8 +181,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -215,8 +196,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                            
+                            </div>
                             <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                                 <div class="card shop-list border-0 position-relative overflow-hidden">
                                     <div class="shop-image position-relative overflow-hidden rounded shadow">
@@ -231,10 +211,10 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                        </div><!--end row-->
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         <?php include_once("footer.php"); ?>
