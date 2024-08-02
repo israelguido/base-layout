@@ -76,7 +76,7 @@
                             </ul>
                         </li>
                         <li><a href="contato.php">Contato</a></li>
-                        <li><a href="#">Trabalhe Conosco</a></li>
+                        <li><a href="trabalhe-conosco.php">Trabalhe Conosco</a></li>
                     </ul><!--end navigation menu-->
                     <div class="menu-btn d-none">
                         <a href="contato.php" target="_blank" class="btn btn-primary">Contato</a>
